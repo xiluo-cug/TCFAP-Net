@@ -1,6 +1,6 @@
 # TCFAP-Net: Transformer-based Cross-domain Fusion and Adaptive Perception Network for Large-scale Point Cloud Semantic Segmentation
 
-This is the official implementation of **TCFAP-Net**. 
+This is the official implementation of **TCFAP-Net**, more details will be provided after the article is accepted. 
  
 
 
