@@ -1,0 +1,7 @@
+Epoch   0, end. Min possibility = 0.0
+Epoch   1, end. Min possibility = 0.5
+
+Confusion on sub clouds
+
+Reproject Vote #0
+Confusion on full clouds
